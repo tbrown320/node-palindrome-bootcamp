@@ -1,22 +1,19 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+# Project: Wu Tang Name Generator!
 
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 
-### How to submit your code for review:
+### Features:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+- Input section where user can type in a word
+- response on the DOM that says whether or not your word is a palindrome
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Tech Used:
+
+- HTML
+- Javascript
+- CSS
+
+### Lessons Learned
+
+- executing functions on the server side and just returning a json can help organize information
+- using user inputs as parameters for api call to the server side
