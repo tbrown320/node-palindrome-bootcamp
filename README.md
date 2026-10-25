@@ -2,6 +2,9 @@
 
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 
+### Hosted:
+- Hosted at https://palindrome-finder.onrender.com
+
 ### Features:
 
 - Input section where user can type in a word
