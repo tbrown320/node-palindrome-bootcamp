@@ -1,4 +1,4 @@
-# Project: Wu Tang Name Generator!
+# Project: Palindrome!
 
 ### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
 
